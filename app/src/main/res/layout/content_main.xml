@@ -334,6 +334,7 @@
                 android:id="@+id/btn_equal"
                 android:layout_column="20"
                 android:onClick="onClickButton"/>
+
         </TableRow>
 
     </TableLayout>
